@@ -262,6 +262,6 @@ Exercise 16
 Solve Exercise 16 here:
 */
 
-console.log(game, 'exercise 16')
+console.log(game,'exercise 16')
 
   
