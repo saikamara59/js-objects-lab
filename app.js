@@ -234,7 +234,7 @@ This method should:
 Solve Exercise 14 here:
 */
 
-
+// number 14 was kind of difficult for me to understand :( sorry 
 
 
 /*
